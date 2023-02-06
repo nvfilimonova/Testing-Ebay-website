@@ -1,0 +1,21 @@
+{
+  "name": "testing-ebay-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvfilimonova/Testing-Ebay-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nvfilimonova/Testing-Ebay-website/issues"
+  },
+  "homepage": "https://github.com/nvfilimonova/Testing-Ebay-website#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  }
+}
