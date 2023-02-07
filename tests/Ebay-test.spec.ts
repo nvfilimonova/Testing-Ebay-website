@@ -10,11 +10,6 @@ test('Google Search Website Button Test', async ({page})=>{
   await gbutton.click();
   await expect(gbutton).toBeHidden()
 
-
- //const { getByTestId } = render(<a data-testid='link' href="https://test.com">Click Me</a>);
-  //expect(getByTestId('link')).toHaveAttribute('href', 'https://test.com');
-  
-
 });
 
 
